@@ -1,0 +1,181 @@
+
+#header {
+    width:80%;
+    height:10%;
+    margin:auto;
+    background-color:rgb(43, 43, 42, 0.9);
+    text-align: center
+   
+}
+
+.kirjauduNappi {
+    float:right;
+    margin-right:5%;
+    margin-top:15px;
+   
+}
+
+a:link {
+    text-decoration:none;
+}
+
+
+#titteli {
+    margin-left:10%;
+    display:inline-block;
+    font-size: 25px;
+    color:rgb(249, 249, 247, 0.9);
+    padding-top:15px;
+    
+}
+
+.titteli2 {
+    margin-left:35%;
+    display:inline-block;
+    font-size: 25px;
+    color:rgb(249, 249, 247, 0.9);
+    padding-top:15px;
+    
+}
+body {
+    background-image:url("../img/tausta1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#admintitteli {
+    font-size:30px;
+}
+#line1 {
+    text-align:center;
+    font-size:20px;
+}
+
+#line3 {
+    text-align:center;
+    font-size:20px;
+    position:relative;
+    background-color:rgb(145, 145, 145,0.5);
+     margin-left:10%;
+    margin-top:20px;
+}
+
+#line2 {
+    padding-top:15%;
+    text-align:center;
+    font-size:20px;
+}
+
+
+.napit {
+     font-size:20px !important;
+}
+.napit2 {
+   
+     font-size:20px !important;
+}
+
+.tabletittelit {
+    font-size:20px;
+	border-bottom: 1px solid black !important;
+}
+
+}
+.autotable {
+    margin-top:40px;
+}
+
+.kirjauduAdmin {
+    margin-top:10%;
+    margin-left:30%;
+    width:35%;
+    background-color:rgb(52, 53, 56);
+    text-align:center;
+    height:400px;
+    border-radius:20px;
+}
+
+.loggaForm {
+    width:80%;
+    margin:auto;
+}
+.lomakedivi {
+    font-size:20px;
+    margin:auto;
+   
+    margin-top:5%;
+}
+
+.autoformi {
+   padding-left:20%;
+    padding-right:20%;
+    text-align:center;
+}
+
+.otsikot {
+    margin-top:-20px;
+    font-size:20x !important;
+}
+
+.autontiedot {
+    font-size:20px;
+}
+
+
+.middle { 
+    width:80%;
+    height:80%;
+     margin:auto;
+    background-color:rgb(249, 249, 247, 0.9);
+    overflow:scroll;
+}
+
+.middle::-webkit-scrollbar { 
+    display: none;  // Safari and Chrome
+}
+
+.mainDiv {
+    width:80%;
+    height:100%;
+    margin:auto;
+}
+
+.autokeski {
+    margin-left:10%;
+    text-align: center;
+    background-color:rgb(145, 145, 145,0.5);
+    height:100%;
+    overflow:auto;
+    
+}
+
+.autokeski::-webkit-scrollbar { 
+    display: none;  // Safari and Chrome
+}
+
+
+.autondivi {
+    float:left;
+    width:400px;
+    height:400px;
+    padding-top:20px;
+    margin-left:5%;
+    display:inline-block;
+    font-size:20px;
+    margin-bottom:40px;
+}
+
+
+#footer {
+    width:80%;
+    height:10%;
+     margin:auto;
+    background-color:rgb(43, 43, 42, 0.9);
+}
+
+#teksti {
+    text-align: center;
+    font-size: 15px;
+    color:rgb(249, 249, 247, 0.9);
+    margin:auto;
+    padding-top:20px;
+}
