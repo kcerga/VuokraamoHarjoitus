@@ -4,10 +4,7 @@ Autovuokraamon "nettisivu" versio 1.0
 auth: Wilma Cergarska
 
 
-Sivu ei ole valmis, ja siin‰ on paljon vajeita tyylimuotoilussa (sek‰ muussa koodissa).
- Aika loppui kesken sivua tehdess‰, ja yritin keskitty‰ loppuvaiheessa enemm‰n php- ja tietokantakoodien
- viimeistelyyn kuin ulkon‰kˆˆn. 
-Sivulla voi t‰ll‰hetkell‰: 
+Sivulla voi t√§ll√§hetkell√§: 
 - Selata vuokraamon autoja
 - Tallentaa asiakkaan tiedot tietokantaan
 - Vuokrata auto
@@ -15,17 +12,18 @@ Sivulla voi t‰ll‰hetkell‰:
 Admin-puoli:
 - Admin- kirjautuminen
 - Tarkistella asiakkaiden autovarauksia
-- N‰hd‰ kaikki vuokraamon autot
-- Muokata/lis‰t‰/poistaa autoja
+- N√§hd√§ kaikki vuokraamon autot
+- Muokata/lis√§t√§/poistaa autoja
 
 
-ASIOITA MITƒ SIVULLE VOI LISƒTƒ/PARANTAA: (jatkan projektia itsekseni viel‰ kurssin j‰lkeen)
-- Asiakkaan login (n‰in tietokanta ei t‰yty esim saman asiakkaan tiedoista jatkuvasti)
+TO-DO LISTA:
+- Parempi ulkoasu
+- Asiakkaan login (n√§in tietokanta ei t√§yty esim saman asiakkaan tiedoista jatkuvasti)
 - Asiakas voi tarkkailla omia vuokrauksiaan
-- Autoa ei voi vuokrata niille p‰iville joille se on jo varattu, n‰kyisi esim kalenterissa
+- Autoa ei voi vuokrata niille p√§iville joille se on jo varattu, n√§kyisi esim kalenterissa
 - Asiakas voi hakea autoja esim. automerkin perusteella
-- Autojen huoltotoimenpiteiden lis‰ys sivulle (adminpuoli)
+- Autojen huoltotoimenpiteiden lis√§ys sivulle (adminpuoli)
 
-+ muita pikkuvirheit‰, joita sivulta lˆytyy
++ muita pikkuvirheit√§, joita sivulta l√∂ytyy
 
 
